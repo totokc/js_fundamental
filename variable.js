@@ -36,5 +36,4 @@ console.log(nama + ' umur saya: ' + umur)
 console.log(cars[1])  //  array always has index
 console.log(info.city)
 
-2018
 
