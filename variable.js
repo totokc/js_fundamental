@@ -17,19 +17,19 @@ hasil = hasil_tandingan;
 console.log(hasil);
 
 // 2. Data type
-// const nama = "yogie"; // string
-// const umur = 17; // integer
-// const nominal = 20.5; // double
-// const isHandsome = true; // boolean - true / false
-// const cars = ["honda", "toyota", "mitsubishi"]; // array
-// const angkas = [1, 2, 3, 4]; // array of number
-// const info = {
-// address: "Jl. Semangka",
-// city: "Jakarta",
-// zip_code: "65123",
-// ishandsome; true,
-// angka: [1, 2, 3, 4]
-// };   // Object
+const nama = "yogie"; // string
+const umur = 17; // integer
+const nominal = 20.5; // double
+const isHandsome = true; // boolean - true / false
+const cars = ["honda", "toyota", "mitsubishi"]; // array
+const angkas = [1, 2, 3, 4]; // array of number
+const info = {
+address: "Jl. Semangka",
+city: "Jak",
+zip_code: "65123",
+ishandsome; true,
+angka: [1, 2, 3, 4]
+};   // Object
 
 console.log(nama)
 console.log(nama + ' umur saya: ' + umur)
